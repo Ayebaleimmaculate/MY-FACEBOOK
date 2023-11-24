@@ -1,0 +1,50 @@
+form{
+    background-color: blue;
+    font-size: 16px;
+    color: azure;
+}
+input,label{
+    text-align: center;
+}
+ body{
+    background-color: aquamarine;
+ }
+ h1,h2{text-align: center;
+}
+
+button{
+    background-color:green;
+    color: white;
+    border: none;
+
+   
+}
+.value{
+    background-color: rgb(13, 114, 13);
+
+}
+.main{
+    width: 500px;
+    margin: auto ;
+}
+.first{
+    padding-top: 7px;
+    background-color: rgb(23, 58, 218);
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.email{
+    margin-left: 70px;
+}
+.submit{
+    margin-top: 10px;
+}
+.lite{
+    padding: auto;
+    text-align: right;
+}
+.button1{
+background-color: green;
+color: black;
+border: none;
+}
